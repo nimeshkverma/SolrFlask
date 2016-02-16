@@ -38,7 +38,7 @@
 									},
 									"max" : { 
 										"type" : "int",
-										"value" : 123
+										"value" : 1234
 									}
 								}
 							}
